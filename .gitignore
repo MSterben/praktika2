@@ -24,3 +24,6 @@ TestResults.xml
 .mykola*
 .addressbook.txt
 .tmp/
+mykola*
+addressbook.txt
+tmp/
