@@ -20,3 +20,7 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#file what we will create
+mykola*
+addressbook.txt
+.tmp/
